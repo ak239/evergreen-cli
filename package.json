@@ -1,0 +1,26 @@
+{
+  "name": "evergreen-cli",
+  "version": "0.0.1",
+  "description": "update your CLI app by one function call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ak239/evergreen-cli.git"
+  },
+  "keywords": [
+    "autoupdate",
+    "cli"
+  ],
+  "author": "ak239spb@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ak239/evergreen-cli/issues"
+  },
+  "homepage": "https://github.com/ak239/evergreen-cli#readme",
+  "dependencies": {
+    "which-pm": "^1.1.0"
+  }
+}
